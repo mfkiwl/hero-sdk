@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/), and this 
 
 ### Added
 - FAQ: Add entries on missing UART consumer application and SVM accesses without `tryX`.
+- Update `hero-openmp-examples` to v1.1.0. Add sobel-filter OpenMP application example
 
 ### Fixed
 - ReadMe: Correct instructions and statements, fix some typos.
